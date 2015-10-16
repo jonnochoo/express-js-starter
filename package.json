@@ -1,5 +1,5 @@
 {
-  "name": "Express Starter Kit",
+  "name": "express-starter-kit",
   "version": "0.0.0",
   "description": "",
   "main": "app.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
+    "gulp": "^3.9.0",
     "jade": "^1.11.0",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
